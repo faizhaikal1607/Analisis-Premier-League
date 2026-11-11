@@ -1,4 +1,4 @@
-# Analisis Data Premier League (2006/07–2017/18)
+# Analisis Data Premier League (2006/2007–2017/2018)
 
 Project Python untuk mengolah dua dataset:
 - `data/stats.csv`: statistik klub per musim (240 baris, 42 kolom pada file awal).
