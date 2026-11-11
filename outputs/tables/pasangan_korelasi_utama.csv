@@ -1,0 +1,5 @@
+variabel_x,variabel_y,pearson_r,n
+Tembakan tepat sasaran,Jumlah gol,0.8830,240
+Jumlah kebobolan,Jumlah kemenangan,-0.8089,240
+Total percobaan tembakan,Jumlah gol,0.7881,240
+Jumlah gol,Jumlah kemenangan,0.8992,240

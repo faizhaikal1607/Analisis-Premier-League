@@ -1,0 +1,7 @@
+,goals,total_scoring_att,ontarget_scoring_att,wins,goals_conceded,clean_sheet
+goals,1.0000,0.7881,0.8830,0.8992,-0.6243,0.5740
+total_scoring_att,0.7881,1.0000,0.9389,0.7539,-0.6103,0.5590
+ontarget_scoring_att,0.8830,0.9389,1.0000,0.8256,-0.6269,0.5764
+wins,0.8992,0.7539,0.8256,1.0000,-0.8089,0.7681
+goals_conceded,-0.6243,-0.6103,-0.6269,-0.8089,1.0000,-0.8715
+clean_sheet,0.5740,0.5590,0.5764,0.7681,-0.8715,1.0000
